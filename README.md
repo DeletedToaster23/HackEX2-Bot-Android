@@ -11,4 +11,5 @@ Disable any tags you have given ips as the distance changes on the hack button a
 Start in your processes tab with only successful bypasses/cracks visible, then run script
 It should go through every ip in the list (For example- I put everything i want into the blue category, i then sort it to only show successful bypasses, and i turn off all other filters)
 <p></p>
+<p></p>
 Current Major Bug - Sometimes it just doesn't see the first IP in the list
